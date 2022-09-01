@@ -1,4 +1,4 @@
-### Automation Engineer Assignment
+# Automation Engineer Assignment
 
 ## Overview
 Complete the following automation test. This assignment can be done over the course of 2 days.
@@ -17,6 +17,6 @@ As a customer when  I search for Alexa. I want to see if the third option on the
 
 - THEN assert that the item would be available for purchase (the user would be able to add it to the cart)
 
-# My opinion
+### My opinion
 
 I thought of designing an outline scenario because the possibility of adding an item to the cart on the amazon website can suffer some obstacles (out of stock, server problems, not available in your region).
