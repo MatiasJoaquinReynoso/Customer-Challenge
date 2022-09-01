@@ -12,3 +12,4 @@ Feature: Test Amazon search functionality
             |Product         |
             |playstation     |
             |Alexa           |
+
